@@ -13,8 +13,8 @@ python3 ./run.py {Parameters for the model. An example is shown in example.param
 ##### Datasets from Facebook-100:
 
 - "edges_xxx.txt" saves the edges in a network;
-- "Tree2_xxx" saves the hierarchy of the xxx network;
-- "Flag_xxx.txt" saves the labels of the nodes;
+- "tree2_xxx" saves the hierarchy of the xxx network;
+- "flag_xxx.txt" saves the labels of the nodes;
 
 ##### Datasets from HRG:
 
